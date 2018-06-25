@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    color:black;
+    font-size:16px;
+    background-image: url(http://eskipaper.com/images/white-abstract-wallpaper-4.jpg);
+    background-size:cover;
+    width:50%;
+    margin:auto;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: solid 20px black;
+    background-color: burlywood
+}
+
+img {
+    border: dotted 5px black;
+    border-radius: 10%;
+    margin:auto;
+    width: 75%
+    display:block;
+}
+
+.merkez{
+    text-align: center;
+}
